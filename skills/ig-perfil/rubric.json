@@ -1,0 +1,17 @@
+{
+  "total": 100,
+  "nota": "Doce ítems. Puntuar con honestidad: los primeros perfiles suelen caer entre 30 y 50. Pesan más el nombre, la primera línea de la bio y las tres fijadas que la foto.",
+  "items": [
+    {"id": "nombre_visible", "puntos": 12, "completo": "Nombre más lo que hacés en palabras que la gente busca, dentro de los 30 caracteres.", "falla_comun": "Solo el nombre o un emoji."},
+    {"id": "bio_primera_linea", "puntos": 12, "completo": "Dice para quién es y qué cambia, en palabras del público.", "falla_comun": "Una lista de roles separados por barras."},
+    {"id": "bio_cuerpo", "puntos": 8, "completo": "Una prueba real o un pedido concreto, en oraciones.", "falla_comun": "Palabras clave sueltas o vacío."},
+    {"id": "tres_fijadas", "puntos": 10, "completo": "Tres piezas con trabajos distintos: prueba, explicación, presentación.", "falla_comun": "Nada fijado."},
+    {"id": "link", "puntos": 8, "completo": "Un destino que coincide con lo que promete la bio.", "falla_comun": "Sin link o un menú de muchas opciones."},
+    {"id": "destacados", "puntos": 8, "completo": "De cuatro a seis, nombrados por las dudas reales del público, con portadas coherentes.", "falla_comun": "Sin destacados o con nombres vagos."},
+    {"id": "legibilidad_grilla", "puntos": 8, "completo": "Las primeras nueve portadas se leen en miniatura y dicen de qué va la cuenta.", "falla_comun": "Portadas sin texto."},
+    {"id": "foto", "puntos": 6, "completo": "Se reconoce en 40 píxeles, buen contraste.", "falla_comun": "Imagen chica o con mucho fondo."},
+    {"id": "usuario", "puntos": 6, "completo": "Se dice en voz alta y es igual en las otras redes.", "falla_comun": "Guiones bajos o números por letras."},
+    {"id": "categoria_contacto", "puntos": 6, "completo": "Cuenta profesional con categoría y botón de contacto que funciona.", "falla_comun": "Cuenta personal, sin estadísticas."},
+    {"id": "actividad_reciente", "puntos": 10, "completo": "Publicó en los últimos siete días y respondió comentarios.", "falla_comun": "Semanas sin publicar."}
+  ]
+}
