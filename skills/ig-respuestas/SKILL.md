@@ -24,7 +24,7 @@ Adaptada para el Estudio PotenciArg de una skill MIT (Jakeschincariol/instagram-
 
 ## Cómo responder
 - Responder la pregunta de verdad, sin mandarla al DM.
-- Nombre una vez al principio. Largo parecido al del comentario.
+- Usar el nombre una vez, al principio. Largo parecido al del comentario.
 - A un crítico: reconocer la parte cierta con sus palabras, mantener la postura, una sola vez.
 - A un agresivo: no responder.
 
